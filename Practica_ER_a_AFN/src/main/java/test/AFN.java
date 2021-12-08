@@ -17,4 +17,11 @@ public class AFN {
     ArrayList<Character> Alfabeto;
     ArrayList<Transition> Transiciones;
 
+    public AFN(ArrayList<Character> Alfabeto) {
+        this.Alfabeto = Alfabeto;
+        this.C_estados = new ArrayList<Estado>();
+        this.Transiciones = new ArrayList<Transition>();
+    }
+    
+
 }
