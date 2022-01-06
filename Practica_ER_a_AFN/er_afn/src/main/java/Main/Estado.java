@@ -10,7 +10,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author matiassebastianparra
+ * @author JesusSG
  */
 public class Estado {
     int id;

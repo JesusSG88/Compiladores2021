@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author matiassebastianparra
+ * @author JesusSG
  */
 public class Automata {
 
